@@ -11,7 +11,7 @@ $ composer require faustbrian/laravel-exception-handlers
 ## Usage
 
 ``` php
-To-Do...
+...
 ```
 
 ## Security
