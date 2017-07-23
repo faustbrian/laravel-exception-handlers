@@ -11,8 +11,8 @@
 
 namespace BrianFaust\ExceptionHandlers;
 
-use Bugsnag_Client;
 use Exception;
+use Bugsnag_Client;
 
 abstract class BugsnagHandler extends Handler
 {
