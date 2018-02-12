@@ -13,8 +13,8 @@ declare(strict_types=1);
 
 namespace BrianFaust\ExceptionHandlers;
 
-use Exception;
 use Bugsnag_Client;
+use Exception;
 
 abstract class BugsnagHandler extends Handler
 {
