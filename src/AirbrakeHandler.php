@@ -13,9 +13,9 @@ declare(strict_types=1);
 
 namespace BrianFaust\ExceptionHandlers;
 
-use Exception;
 use Airbrake\Client;
 use Airbrake\Configuration;
+use Exception;
 
 abstract class AirbrakeHandler extends Handler
 {
