@@ -1,12 +1,12 @@
 {
-    "name": "faustbrian/laravel-exception-handlers",
+    "name": "artisanry/exception-handlers",
     "description": "Exceptions Handlers for Laravel 5",
-    "keywords": ["laravel", "framework", "Laravel-Exception-Handlers", "Laravel Exception Handlers", "Brian Faust", "faustbrian"],
+    "keywords": ["laravel", "framework", "Laravel-Exception-Handlers", "Laravel Exception Handlers"],
     "license": "MIT",
     "authors": [{
         "name": "Brian Faust",
-        "email": "hello@brianfaust.me",
-        "homepage": "https://brianfaust.me"
+        "email": "hello@basecode.sh",
+        "homepage": "https://basecode.sh"
     }],
     "require": {
         "php": "^7.1",
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "BrianFaust\\ExceptionHandlers\\": "src/"
+            "Artisanry\\ExceptionHandlers\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "BrianFaust\\Tests\\ExceptionHandlers\\": "tests"
+            "Artisanry\\Tests\\ExceptionHandlers\\": "tests"
         }
     },
     "config": {
