@@ -23,7 +23,7 @@
     "require-dev": {
         "graham-campbell/testbench": "^5.0",
         "mockery/mockery": "^1.0",
-        "phpunit/phpunit": "^6.5"
+        "phpunit/phpunit": "^8.2"
     },
     "suggest": {
         "raven/raven": "A PHP client for Sentry (http://getsentry.com). Require 0.12.0.",
